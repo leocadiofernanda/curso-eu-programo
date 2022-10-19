@@ -1,0 +1,25 @@
+
+
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#8A71C9;
+    color: white;
+}
+
+h2{
+    color: #2a0074;
+}  
+.titulo-verde{
+
+    color:#04ff9f ;
+}
+
+.titulo-vermelho{
+    color: #FF9E9E;
+;
+}
+
+.titulo-amarelo{
+    color: #ffe36d;
+}
